@@ -73,7 +73,7 @@ export default function Footer() {
               Conservancy.
             </p>
             <a
-              href="https://github.com"
+              href="https://github.com/louiemarte10/github-landpage-instruction"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 mt-4 text-slate-500 hover:text-slate-300 transition-colors text-sm"

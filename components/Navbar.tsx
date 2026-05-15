@@ -53,7 +53,7 @@ export default function Navbar() {
               </Link>
             ))}
             <a
-              href="https://github.com"
+              href="https://github.com/louiemarte10/github-landpage-instruction"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="GitHub"
